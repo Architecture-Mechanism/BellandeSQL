@@ -1,6 +1,13 @@
 # BellandeSQL
 - Can be used in any Operating System but default intergrated into BellandeOS
 
+## Features of BellandeSQL
+**Core Components**
+  - Storage Engine
+  - Query Processor
+  - Transaction Manager
+  - Index Manager
+  - Buffer Pool Manager
 
 ## License
 
