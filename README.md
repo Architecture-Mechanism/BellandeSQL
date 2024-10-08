@@ -1,4 +1,5 @@
 # BellandeSQL
+- Can be used in any Operating System but default intergrated into BellandeOS
 
 
 ## License
